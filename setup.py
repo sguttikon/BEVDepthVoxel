@@ -47,7 +47,7 @@ setup(
     version='0.0.1',
     author='Megvii',
     author_email='liyinhao@megvii.com',
-    description='Code for BEVDepth's voxel pooling train & inferenence extension',
+    description='Code for BEVDepth\'s voxel pooling train & inferenence extension',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url=None,
